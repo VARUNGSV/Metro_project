@@ -1,0 +1,110 @@
+Year,Month,Day,Hour,Station,Line,Passengers,Is_Weekend
+2023,1,1,6,Majestic,Purple Line,1800,False
+2023,1,1,7,Majestic,Purple Line,3600,False
+2023,1,1,8,Majestic,Purple Line,5400,False
+2023,1,1,9,Majestic,Purple Line,3600,False
+2023,1,1,10,Majestic,Purple Line,2160,False
+2023,1,1,11,Majestic,Purple Line,1800,False
+2023,1,1,12,Majestic,Purple Line,1440,False
+2023,1,1,13,Majestic,Purple Line,1080,False
+2023,1,1,14,Majestic,Purple Line,1080,False
+2023,1,1,15,Majestic,Purple Line,1440,False
+2023,1,1,16,Majestic,Purple Line,1800,False
+2023,1,1,17,Majestic,Purple Line,3240,False
+2023,1,1,18,Majestic,Purple Line,3960,False
+2023,1,1,19,Majestic,Purple Line,3600,False
+2023,1,1,20,Majestic,Purple Line,2160,False
+2023,1,1,21,Majestic,Purple Line,1440,False
+2023,1,1,22,Majestic,Purple Line,1080,False
+2023,1,1,23,Majestic,Purple Line,720,False
+2023,1,1,6,MG Road,Purple Line,1800,False
+2023,1,1,7,MG Road,Purple Line,3600,False
+2023,1,1,8,MG Road,Purple Line,5400,False
+2023,1,1,9,MG Road,Purple Line,3600,False
+2023,1,1,10,MG Road,Purple Line,2160,False
+2023,1,1,11,MG Road,Purple Line,1800,False
+2023,1,1,12,MG Road,Purple Line,1440,False
+2023,1,1,13,MG Road,Purple Line,1080,False
+2023,1,1,14,MG Road,Purple Line,1080,False
+2023,1,1,15,MG Road,Purple Line,1440,False
+2023,1,1,16,MG Road,Purple Line,1800,False
+2023,1,1,17,MG Road,Purple Line,3240,False
+2023,1,1,18,MG Road,Purple Line,3960,False
+2023,1,1,19,MG Road,Purple Line,3600,False
+2023,1,1,20,MG Road,Purple Line,2160,False
+2023,1,1,21,MG Road,Purple Line,1440,False
+2023,1,1,22,MG Road,Purple Line,1080,False
+2023,1,1,23,MG Road,Purple Line,720,False
+2023,1,1,6,Yeshwanthpur,Green Line,1200,False
+2023,1,1,7,Yeshwanthpur,Green Line,2400,False
+2023,1,1,8,Yeshwanthpur,Green Line,3600,False
+2023,1,1,9,Yeshwanthpur,Green Line,2400,False
+2023,1,1,10,Yeshwanthpur,Green Line,1440,False
+2023,1,1,11,Yeshwanthpur,Green Line,1200,False
+2023,1,1,12,Yeshwanthpur,Green Line,960,False
+2023,1,1,13,Yeshwanthpur,Green Line,720,False
+2023,1,1,14,Yeshwanthpur,Green Line,720,False
+2023,1,1,15,Yeshwanthpur,Green Line,960,False
+2023,1,1,16,Yeshwanthpur,Green Line,1200,False
+2023,1,1,17,Yeshwanthpur,Green Line,2160,False
+2023,1,1,18,Yeshwanthpur,Green Line,2640,False
+2023,1,1,19,Yeshwanthpur,Green Line,2400,False
+2023,1,1,20,Yeshwanthpur,Green Line,1440,False
+2023,1,1,21,Yeshwanthpur,Green Line,960,False
+2023,1,1,22,Yeshwanthpur,Green Line,720,False
+2023,1,1,23,Yeshwanthpur,Green Line,480,False
+2024,1,1,6,Majestic,Purple Line,2272,False
+2024,1,1,7,Majestic,Purple Line,4544,False
+2024,1,1,8,Majestic,Purple Line,6816,False
+2024,1,1,9,Majestic,Purple Line,4544,False
+2024,1,1,10,Majestic,Purple Line,2726,False
+2024,1,1,11,Majestic,Purple Line,2272,False
+2024,1,1,12,Majestic,Purple Line,1818,False
+2024,1,1,13,Majestic,Purple Line,1363,False
+2024,1,1,14,Majestic,Purple Line,1363,False
+2024,1,1,15,Majestic,Purple Line,1818,False
+2024,1,1,16,Majestic,Purple Line,2272,False
+2024,1,1,17,Majestic,Purple Line,4090,False
+2024,1,1,18,Majestic,Purple Line,5009,False
+2024,1,1,19,Majestic,Purple Line,4544,False
+2024,1,1,20,Majestic,Purple Line,2726,False
+2024,1,1,21,Majestic,Purple Line,1818,False
+2024,1,1,22,Majestic,Purple Line,1363,False
+2024,1,1,23,Majestic,Purple Line,909,False
+2025,1,1,6,Majestic,Purple Line,2878,False
+2025,1,1,7,Majestic,Purple Line,5757,False
+2025,1,1,8,Majestic,Purple Line,8635,False
+2025,1,1,9,Majestic,Purple Line,5757,False
+2025,1,1,10,Majestic,Purple Line,3454,False
+2025,1,1,11,Majestic,Purple Line,2878,False
+2025,1,1,12,Majestic,Purple Line,2303,False
+2025,1,1,13,Majestic,Purple Line,1727,False
+2025,1,1,14,Majestic,Purple Line,1727,False
+2025,1,1,15,Majestic,Purple Line,2303,False
+2025,1,1,16,Majestic,Purple Line,2878,False
+2025,1,1,17,Majestic,Purple Line,5178,False
+2025,1,1,18,Majestic,Purple Line,6379,False
+2025,1,1,19,Majestic,Purple Line,5757,False
+2025,1,1,20,Majestic,Purple Line,3454,False
+2025,1,1,21,Majestic,Purple Line,2303,False
+2025,1,1,22,Majestic,Purple Line,1727,False
+2025,1,1,23,Majestic,Purple Line,1151,False
+2026,1,1,6,Majestic,Purple Line,3645,False
+2026,1,1,7,Majestic,Purple Line,7290,False
+2026,1,1,8,Majestic,Purple Line,10935,False
+2026,1,1,9,Majestic,Purple Line,7290,False
+2026,1,1,10,Majestic,Purple Line,4374,False
+2026,1,1,11,Majestic,Purple Line,3645,False
+2026,1,1,12,Majestic,Purple Line,2916,False
+2026,1,1,13,Majestic,Purple Line,2187,False
+2026,1,1,14,Majestic,Purple Line,2187,False
+2026,1,1,15,Majestic,Purple Line,2916,False
+2026,1,1,16,Majestic,Purple Line,3645,False
+2026,1,1,17,Majestic,Purple Line,6561,False
+2026,1,1,18,Majestic,Purple Line,8074,False
+2026,1,1,19,Majestic,Purple Line,7290,False
+2026,1,1,20,Majestic,Purple Line,4374,False
+2026,1,1,21,Majestic,Purple Line,2916,False
+2026,1,1,22,Majestic,Purple Line,2187,False
+2026,1,1,23,Majestic,Purple Line,1458,False
+test

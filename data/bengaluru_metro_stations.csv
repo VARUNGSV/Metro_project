@@ -1,0 +1,86 @@
+Station_ID,Station_Name,Line,Latitude,Longitude
+1,Whitefield (Kadugodi),Purple Line,12.9955,77.7612
+2,Hopefarm Channasandra,Purple Line,12.9969,77.7530
+3,Kadugodi Tree Park,Purple Line,12.9942,77.7455
+4,Pattandur Agrahara,Purple Line,12.9940,77.7375
+5,Sri Sathya Sai Hospital,Purple Line,12.9896,77.7303
+6,Nallurhalli,Purple Line,12.9856,77.7205
+7,Kundalahalli,Purple Line,12.9794,77.7125
+8,Seetharamapalya,Purple Line,12.9765,77.7060
+9,Hoodi,Purple Line,12.9918,77.6967
+10,Garudacharpalya,Purple Line,12.9950,77.6850
+11,Singayyanapalya,Purple Line,12.9975,77.6780
+12,Krishnarajapura,Purple Line,13.0080,77.6953
+13,Benniganahalli,Purple Line,13.0070,77.6600
+14,Baiyappanahalli,Purple Line,13.0095,77.6432
+15,Swami Vivekananda Road,Purple Line,12.9850,77.6380
+16,Indiranagar,Purple Line,12.9784,77.6408
+17,Halasuru,Purple Line,12.9770,77.6260
+18,Trinity,Purple Line,12.9735,77.6170
+19,MG Road,Purple Line,12.9756,77.6050
+20,Cubbon Park,Purple Line,12.9769,77.5938
+21,Vidhana Soudha,Purple Line,12.9790,77.5910
+22,Sir M Visvesvaraya,Purple Line,12.9750,77.5880
+23,Majestic,Purple Line,12.9785,77.5720
+24,KSR City Railway Station,Purple Line,12.9760,77.5700
+25,Magadi Road,Purple Line,12.9755,77.5580
+26,Hosahalli,Purple Line,12.9730,77.5470
+27,Vijayanagar,Purple Line,12.9665,77.5400
+28,Attiguppe,Purple Line,12.9600,77.5350
+29,Deepanjali Nagar,Purple Line,12.9530,77.5330
+30,Mysuru Road,Purple Line,12.9523,77.5400
+31,Nayandahalli,Purple Line,12.9450,77.5250
+32,Rajarajeshwari Nagar,Purple Line,12.9365,77.5200
+33,Jnanabharathi,Purple Line,12.9300,77.5150
+34,Pattanagere,Purple Line,12.9250,77.5050
+35,Kengeri Bus Terminal,Purple Line,12.9190,77.4990
+36,Kengeri,Purple Line,12.9141,77.4875
+37,Challaghatta,Purple Line,12.9030,77.4800
+38,Madavara,Green Line,13.0585,77.4740
+39,Chikkabidarakallu,Green Line,13.0530,77.4850
+40,Manjunath Nagar,Green Line,13.0500,77.4920
+41,Nagasandra,Green Line,13.0485,77.5000
+42,Dasarahalli,Green Line,13.0435,77.5130
+43,Jalahalli,Green Line,13.0370,77.5260
+44,Peenya Industry,Green Line,13.0360,77.5250
+45,Peenya,Green Line,13.0325,77.5200
+46,Goraguntepalya,Green Line,13.0285,77.5400
+47,Yeshwanthpur,Green Line,13.0280,77.5540
+48,Sandal Soap Factory,Green Line,13.0205,77.5560
+49,Mahalakshmi,Green Line,13.0140,77.5580
+50,Rajajinagar,Green Line,12.9910,77.5550
+51,Kuvempu Road,Green Line,12.9980,77.5520
+52,Srirampura,Green Line,12.9890,77.5640
+53,Mantri Square,Green Line,12.9830,77.5680
+54,Majestic,Green Line,12.9785,77.5720
+55,Chickpete,Green Line,12.9680,77.5750
+56,KR Market,Green Line,12.9657,77.5736
+57,National College,Green Line,12.9570,77.5730
+58,Lalbagh,Green Line,12.9507,77.5848
+59,South End Circle,Green Line,12.9430,77.5810
+60,Jayanagar,Green Line,12.9295,77.5835
+61,RV Road,Green Line,12.9255,77.5800
+62,Banashankari,Green Line,12.9250,77.5735
+63,Jaya Prakash Nagar,Green Line,12.9230,77.5730
+64,Yelachenahalli,Green Line,12.9170,77.5730
+65,Konankunte Cross,Green Line,12.9100,77.5650
+66,Doddakallasandra,Green Line,12.9070,77.5600
+67,Vajarahalli,Green Line,12.9040,77.5600
+68,Thalaghattapura,Green Line,12.9010,77.5650
+69,Silk Institute,Green Line,12.9070,77.5650
+70,RV Road Junction,Yellow Line,12.9255,77.5800
+71,Ragigudda,Yellow Line,12.9190,77.5870
+72,Jayadeva Hospital,Yellow Line,12.9165,77.5990
+73,BTM Layout,Yellow Line,12.9166,77.6101
+74,Central Silk Board,Yellow Line,12.9170,77.6220
+75,Bommanahalli,Yellow Line,12.8990,77.6280
+76,Hongasandra,Yellow Line,12.8905,77.6350
+77,Kudlu Gate,Yellow Line,12.8850,77.6420
+78,Singasandra,Yellow Line,12.8790,77.6480
+79,Hosa Road,Yellow Line,12.8700,77.6600
+80,Beratena Agrahara,Yellow Line,12.8600,77.6650
+81,Electronic City,Yellow Line,12.8456,77.6603
+82,Infosys Foundation Konappana Agrahara,Yellow Line,12.8400,77.6630
+83,Huskur Road,Yellow Line,12.8350,77.6700
+84,Biocon Hebbagodi,Yellow Line,12.8280,77.6800
+85,Bommasandra,Yellow Line,12.8168,77.6890
