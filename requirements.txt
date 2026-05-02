@@ -1,10 +1,6 @@
-streamlit>=1.28.0 
-pandas 
-matplotlib 
-seaborn 
-plotly 
-folium 
-streamlit-folium 
-networkx 
-requests 
+streamlit
+pandas
 numpy
+matplotlib
+seaborn
+plotly
